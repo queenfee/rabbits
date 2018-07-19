@@ -1,0 +1,53 @@
+#one2{
+    background-color: yellow;
+    color:green;
+    font-family: Arial, sans-serif;
+}
+p1{
+    color: red;
+    font-family: Arial, sans-serif;
+}
+p2{
+    color:blue;
+    background-color:yellow;
+    font-family: Arial, sans-serif;
+}
+#song{
+   
+    color: red;
+    font: italic bold, monospace ;
+    text-align: center;
+}
+#reasons{
+    color:blue;
+    background-color:yellow;
+    font-family: Arial, sans-serif;
+}
+ul{
+    color: turquoise;
+    font-family: Arial, sans-serif;
+}
+#gee{
+    color:red;
+    font-family: Arial, sans-serif;
+}
+#kee{
+   color:blue;
+   font-family: Arial, sans-serif;
+}
+ol{
+    color: purple;
+    font-family: Arial, sans-serif;
+}
+body{
+    background-color: lightyellow;
+}
+h1{
+    font-family: sans-serif
+}
+#fav{
+    color: red;
+}
+#link{
+    color: red;
+}
